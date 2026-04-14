@@ -64,5 +64,8 @@ No modificar el archivo pom.xml
 No modificar el workflow de GitHub
 Solo trabajar en:
 src/main/java/SistemaTurnosSoporte.java
-
+Y realizar la interfaz grafica del usuario para probar que todo funcione
 Puedes revisar las pruebas test pero no modificarlas.
+Ponderacion 
+Test 7.5
+Ventana 2.5
